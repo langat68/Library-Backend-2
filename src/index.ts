@@ -80,7 +80,7 @@ app.get('/', (c) => {
   return c.html(`
 <!DOCTYPE html>
 <html lang="en">
-  <h2>The server is Up</>
+  <h2>The server is Up</h2>
       
       
 </html>
